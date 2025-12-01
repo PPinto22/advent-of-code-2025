@@ -1,0 +1,6 @@
+.idea/
+
+# AOC Rules: "If you're posting a code repository somewhere,
+# please don't include parts of Advent of Code like the puzzle text or your inputs."
+input.txt
+example_input.txt
